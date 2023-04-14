@@ -11,4 +11,4 @@
 * This data set contains crime reports and how many there were per 100 people per neighborhood in 2010, as well as separate categories for the type of crime committed: https://data.wprdc.org/dataset/pgh/resource/204f63f4-296f-4f1d-bbdd-946b183fa5a0
 
 # A one sentence overview of your repository, meant for someone who is not familiar with the project
-As our final project we evaluated for the Best Neighborhood to Raise a Family with Young Children - using the metrics of Lowest Crime Reports per 100 People, number of buisnesses, and nuumber of people enrolled in school.
+As our final project for CS 0010 - Big Ideas, we evaluated for the Best Neighborhood to Raise a Family with Young Children - using the metrics of lowest crime reports per 100 people, number of buisnesses, and number of people enrolled in school.
